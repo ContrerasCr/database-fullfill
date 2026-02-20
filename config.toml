@@ -1,0 +1,7 @@
+# config.toml
+
+name = "bbdd-dummy"
+version = "0.0.1"
+
+[database]
+quantity_data = 1000

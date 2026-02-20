@@ -1,0 +1,10 @@
+
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.2",
+]
+
+[tool.ruff]
+# Set the maximum line length to 79.
+line-length = 79
